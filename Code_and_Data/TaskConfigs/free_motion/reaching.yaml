@@ -1,0 +1,31 @@
+modelFile: "/mujoco_models/Franka_emika_scenes_V1/reaching_scene.xml"
+modelName: "/reaching"
+timeStep: 0.008
+openloop_horizon: 500
+mpc_horizon: 50
+keypointMethod: "set_interval"   # Possible values: "set_interval", "adaptive_jerk", "adaptive_accel", "iterative_error, "velocity_change"
+minN: 1
+maxN: 50
+iterativeErrorThreshold: 0.001
+robots:
+  panda:
+    jointNames: ["panda0_joint1", "panda0_joint2", "panda0_joint3", "panda0_joint4", "panda0_joint5", "panda0_joint6", "panda0_joint7"]
+    actuatorNames: ["panda0_joint1", "panda0_joint2", "panda0_joint3", "panda0_joint4", "panda0_joint5", "panda0_joint6", "panda0_joint7"]
+    torqueControl: true 
+    torqueLimits: [87, 87, 87, 87, 12, 12, 12]
+    startPos: [-1, 0.5, 0, -1, 0, 0.6, 1]
+    position_threshold: 0.1 # Value between 0 and 1 - uses joint limits
+    velocity_threshold: 0.1 # Raw velocity threshold value
+    control_threshold: 0.1 # Value between 0 and 1 - uses control limits
+
+residuals:
+  EE_goal:
+    target: [1, 0.5, 2, -1.4, 0, 0.6, 1]
+    weight: 0.1
+    weight_terminal: 1000
+    resid_dimension: 7
+  joint_velocities:
+    target: [0, 0, 0, 0, 0, 0, 0]
+    weight: 0.01
+    weight_terminal: 100
+    resid_dimension: 7

@@ -1,0 +1,8 @@
+Dear reviewer,
+
+THis code is 99% the work of the original researcher, Vince Kurtz. We attach this code in supplementary materials so you
+can observe the changes we made to their original code (adding in our key-point methods and testing loops).
+
+All other code is the IP of Vince Kurtz and his copyright licence sentiments should be followed otherwise.
+
+Relevant files changes are ilqr.py. We created gen_testing_data.py files to conduct sequential experiments for different task instances.

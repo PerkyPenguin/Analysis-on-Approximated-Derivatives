@@ -1,0 +1,14 @@
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/core_lib.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/TrajOptKP.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/gen_testing_data.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/benchmark_derivatives.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/toy_contact_analysis.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/derivative_error_analysis.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/contact_stiffness_test.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/figure1_data_generator.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/test_derivs.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/test_model_translator.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/test_kinematic_chain.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/test.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/davidrussell/TrajOptKP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore_lib.a CMakeFiles/core_lib.dir/src/Differentiator/Differentiator.cpp.o CMakeFiles/core_lib.dir/src/ModelTranslator/ModelTranslator.cpp.o CMakeFiles/core_lib.dir/src/PhysicsSimulators/MuJoCoHelper.cpp.o CMakeFiles/core_lib.dir/src/KeyPointGenerator/KeyPointGenerator.cpp.o CMakeFiles/core_lib.dir/src/StdInclude/StdInclude.cpp.o CMakeFiles/core_lib.dir/src/FileHandler/FileHandler.cpp.o
+/usr/bin/ranlib libcore_lib.a

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/davidrussell/TrajOptKP/cmake-build-release/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

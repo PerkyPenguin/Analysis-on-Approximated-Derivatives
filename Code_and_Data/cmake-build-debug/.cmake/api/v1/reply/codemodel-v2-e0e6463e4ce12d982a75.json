@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TrajOptKP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TrajOptKP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TrajOptKP-Debug-ff650142ec741f9e5d74.json",
+					"name" : "TrajOptKP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_derivatives::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_derivatives-Debug-52fd3ed74233ad80611c.json",
+					"name" : "benchmark_derivatives",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "contact_stiffness_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-contact_stiffness_test-Debug-f7354b88e05f5df1bce5.json",
+					"name" : "contact_stiffness_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "core_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-core_lib-Debug-4a56bc2c491d3705668d.json",
+					"name" : "core_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "derivative_error_analysis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-derivative_error_analysis-Debug-4c15856041368c2f6c66.json",
+					"name" : "derivative_error_analysis",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "figure1_data_generator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-figure1_data_generator-Debug-1b2aa6e6a1686583f00d.json",
+					"name" : "figure1_data_generator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gen_testing_data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gen_testing_data-Debug-e4ff49022802a3339db0.json",
+					"name" : "gen_testing_data",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_derivs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_derivs-Debug-9475de0a174202e5f960.json",
+					"name" : "test_derivs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_kinematic_chain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_kinematic_chain-Debug-5ebdee1ea81b721b8201.json",
+					"name" : "test_kinematic_chain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_model_translator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_model_translator-Debug-ae7f0733fe1bd6b51742.json",
+					"name" : "test_model_translator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "toy_contact_analysis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-toy_contact_analysis-Debug-5d7600f2a4b4201877df.json",
+					"name" : "toy_contact_analysis",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/davidrussell/TrajOptKP/cmake-build-debug",
+		"source" : "/home/davidrussell/TrajOptKP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

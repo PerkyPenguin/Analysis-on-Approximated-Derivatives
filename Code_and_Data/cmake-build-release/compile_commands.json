@@ -1,0 +1,620 @@
+[
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/mujoco/include/mujoco -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/core_lib.dir/src/Differentiator/Differentiator.cpp.o -c /home/davidrussell/TrajOptKP/src/Differentiator/Differentiator.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Differentiator/Differentiator.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/core_lib.dir/src/Differentiator/Differentiator.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/mujoco/include/mujoco -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/core_lib.dir/src/ModelTranslator/ModelTranslator.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ModelTranslator.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ModelTranslator.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/core_lib.dir/src/ModelTranslator/ModelTranslator.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/mujoco/include/mujoco -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/core_lib.dir/src/PhysicsSimulators/MuJoCoHelper.cpp.o -c /home/davidrussell/TrajOptKP/src/PhysicsSimulators/MuJoCoHelper.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/PhysicsSimulators/MuJoCoHelper.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/core_lib.dir/src/PhysicsSimulators/MuJoCoHelper.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/mujoco/include/mujoco -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/core_lib.dir/src/KeyPointGenerator/KeyPointGenerator.cpp.o -c /home/davidrussell/TrajOptKP/src/KeyPointGenerator/KeyPointGenerator.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/KeyPointGenerator/KeyPointGenerator.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/core_lib.dir/src/KeyPointGenerator/KeyPointGenerator.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/mujoco/include/mujoco -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/core_lib.dir/src/StdInclude/StdInclude.cpp.o -c /home/davidrussell/TrajOptKP/src/StdInclude/StdInclude.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/StdInclude/StdInclude.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/core_lib.dir/src/StdInclude/StdInclude.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/mujoco/include/mujoco -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/core_lib.dir/src/FileHandler/FileHandler.cpp.o -c /home/davidrussell/TrajOptKP/src/FileHandler/FileHandler.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/FileHandler/FileHandler.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/core_lib.dir/src/FileHandler/FileHandler.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/main.cpp.o -c /home/davidrussell/TrajOptKP/src/main.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/main.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/Visualiser/Visualiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/Visualiser/Visualiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Reaching.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Reaching.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Reaching.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Reaching.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/TwoDPushing.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/TwoDPushing.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/Optimiser/Optimiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/Optimiser/Optimiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/Optimiser/iLQR.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/Optimiser/iLQR.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Walker.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Walker.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Walker.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Walker.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/BoxSweep.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/BoxSweep.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Acrobot.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Acrobot.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Acrobot.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Acrobot.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Humanoid.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Humanoid.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Humanoid.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Humanoid.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/ThreeDPushing.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ThreeDPushing.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ThreeDPushing.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/ThreeDPushing.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/PushBaseClass.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/PushBaseClass.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Pentabot.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Pentabot.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Pentabot.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Pentabot.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/PistonBlock.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PistonBlock.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PistonBlock.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/PistonBlock.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/Optimiser/iLQR_SVR.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/iLQR_SVR.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/iLQR_SVR.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/Optimiser/iLQR_SVR.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/PushSoft.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PushSoft.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PushSoft.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/PushSoft.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/SweepMultiple.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/SweepMultiple.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/SweepMultiple.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/SweepMultiple.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/PlaceObject.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PlaceObject.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PlaceObject.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/PlaceObject.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/FloatingCube.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/FloatingCube.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/FloatingCube.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/FloatingCube.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/GAOptimalKeypoints.cpp.o -c /home/davidrussell/TrajOptKP/src/GAOptimalKeypoints.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/GAOptimalKeypoints.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/GAOptimalKeypoints.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/ArticulatedContact.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ArticulatedContact.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ArticulatedContact.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/ArticulatedContact.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/anyMal.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/anyMal.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/anyMal.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/anyMal.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/ImpactLargeBox.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/ImpactLargeBox.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/BimanualPickup.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/BimanualPickup.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/BimanualPickup.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/BimanualPickup.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/Optimiser/SCVX.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/SCVX.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/SCVX.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/Optimiser/SCVX.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Piston.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Piston.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Piston.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/Piston.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/TrajOptKP.dir/src/ModelTranslator/LWR_reaching.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/LWR_reaching.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/LWR_reaching.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/TrajOptKP.dir/src/ModelTranslator/LWR_reaching.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/GenTestingData.cpp.o -c /home/davidrussell/TrajOptKP/src/GenTestingData.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/GenTestingData.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/GenTestingData.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/Visualiser/Visualiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/Visualiser/Visualiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Reaching.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Reaching.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Reaching.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Reaching.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/TwoDPushing.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/TwoDPushing.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/Optimiser/Optimiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/Optimiser/Optimiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/Optimiser/iLQR.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/Optimiser/iLQR.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/Optimiser/SCVX.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/SCVX.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/SCVX.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/Optimiser/SCVX.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Walker.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Walker.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Walker.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Walker.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/BoxSweep.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/BoxSweep.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Acrobot.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Acrobot.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Acrobot.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Acrobot.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Humanoid.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Humanoid.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Humanoid.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Humanoid.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/ThreeDPushing.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ThreeDPushing.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ThreeDPushing.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/ThreeDPushing.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/PushBaseClass.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/PushBaseClass.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Pentabot.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Pentabot.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Pentabot.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/Pentabot.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/PistonBlock.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PistonBlock.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PistonBlock.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/PistonBlock.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/PlaceObject.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PlaceObject.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PlaceObject.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/PlaceObject.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/ArticulatedContact.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ArticulatedContact.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ArticulatedContact.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/ArticulatedContact.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/ImpactLargeBox.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/ImpactLargeBox.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/anyMal.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/anyMal.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/anyMal.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/anyMal.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -DOSQP_EIGEN_OSQP_IS_V1 -DOSQP_EIGEN_OSQP_IS_V1_FINAL -DOSQP_SHARED_LIB -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3 -isystem /include -isystem /usr/local/include/osqp  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/gen_testing_data.dir/src/ModelTranslator/BimanualPickup.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/BimanualPickup.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/BimanualPickup.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/gen_testing_data.dir/src/ModelTranslator/BimanualPickup.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/benchmark_derivatives.dir/src/benchmark_derivatives.cpp.o -c /home/davidrussell/TrajOptKP/src/benchmark_derivatives.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/benchmark_derivatives.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/benchmark_derivatives.dir/src/benchmark_derivatives.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/benchmark_derivatives.dir/src/Visualiser/Visualiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/benchmark_derivatives.dir/src/Visualiser/Visualiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/benchmark_derivatives.dir/src/ModelTranslator/TwoDPushing.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/benchmark_derivatives.dir/src/ModelTranslator/TwoDPushing.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/benchmark_derivatives.dir/src/Optimiser/Optimiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/benchmark_derivatives.dir/src/Optimiser/Optimiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/benchmark_derivatives.dir/src/Optimiser/iLQR.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/benchmark_derivatives.dir/src/Optimiser/iLQR.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/benchmark_derivatives.dir/src/ModelTranslator/PushBaseClass.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/benchmark_derivatives.dir/src/ModelTranslator/PushBaseClass.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/toy_contact_analysis.dir/src/toy_contact_analysis.cpp.o -c /home/davidrussell/TrajOptKP/src/toy_contact_analysis.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/toy_contact_analysis.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/toy_contact_analysis.dir/src/toy_contact_analysis.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/toy_contact_analysis.dir/src/Visualiser/Visualiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/toy_contact_analysis.dir/src/Visualiser/Visualiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/toy_contact_analysis.dir/src/Optimiser/Optimiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/toy_contact_analysis.dir/src/Optimiser/Optimiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/toy_contact_analysis.dir/src/Optimiser/iLQR.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/toy_contact_analysis.dir/src/Optimiser/iLQR.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/PistonBlock.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PistonBlock.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PistonBlock.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/PistonBlock.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/Acrobot.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Acrobot.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Acrobot.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/Acrobot.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/ArticulatedContact.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ArticulatedContact.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ArticulatedContact.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/ArticulatedContact.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/BoxSweep.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/BoxSweep.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/PushBaseClass.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/toy_contact_analysis.dir/src/ModelTranslator/PushBaseClass.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/derivative_error_analysis.cpp.o -c /home/davidrussell/TrajOptKP/src/derivative_error_analysis.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/derivative_error_analysis.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/derivative_error_analysis.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/Visualiser/Visualiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/Visualiser/Visualiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/Optimiser/Optimiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/Optimiser/Optimiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/Optimiser/iLQR.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/Optimiser/iLQR.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/Acrobot.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Acrobot.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Acrobot.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/Acrobot.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/ArticulatedContact.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ArticulatedContact.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ArticulatedContact.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/ArticulatedContact.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/BoxSweep.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/BoxSweep.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/ImpactLargeBox.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/ImpactLargeBox.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/PushBaseClass.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/PushBaseClass.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/TwoDPushing.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/TwoDPushing.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/Walker.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Walker.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Walker.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/Walker.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/PlaceObject.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PlaceObject.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PlaceObject.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/PlaceObject.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/PistonBlock.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PistonBlock.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PistonBlock.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/derivative_error_analysis.dir/src/ModelTranslator/PistonBlock.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/contact_stiffness_test.dir/src/contact_stiffness_test.cpp.o -c /home/davidrussell/TrajOptKP/src/contact_stiffness_test.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/contact_stiffness_test.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/contact_stiffness_test.dir/src/contact_stiffness_test.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/contact_stiffness_test.dir/src/Visualiser/Visualiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/contact_stiffness_test.dir/src/Visualiser/Visualiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/contact_stiffness_test.dir/src/Optimiser/Optimiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/contact_stiffness_test.dir/src/Optimiser/Optimiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/contact_stiffness_test.dir/src/Optimiser/iLQR.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/contact_stiffness_test.dir/src/Optimiser/iLQR.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/contact_stiffness_test.dir/src/ModelTranslator/BoxSweep.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/contact_stiffness_test.dir/src/ModelTranslator/BoxSweep.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/contact_stiffness_test.dir/src/ModelTranslator/TwoDPushing.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/contact_stiffness_test.dir/src/ModelTranslator/TwoDPushing.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/contact_stiffness_test.dir/src/ModelTranslator/PushBaseClass.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/contact_stiffness_test.dir/src/ModelTranslator/PushBaseClass.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/contact_stiffness_test.dir/src/ModelTranslator/ImpactLargeBox.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/contact_stiffness_test.dir/src/ModelTranslator/ImpactLargeBox.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/figure1_data_generator.dir/src/figure_1_data_generator.cpp.o -c /home/davidrussell/TrajOptKP/src/figure_1_data_generator.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/figure_1_data_generator.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/figure1_data_generator.dir/src/figure_1_data_generator.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/figure1_data_generator.dir/src/Visualiser/Visualiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Visualiser/Visualiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/figure1_data_generator.dir/src/Visualiser/Visualiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/figure1_data_generator.dir/src/Optimiser/Optimiser.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/Optimiser.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/figure1_data_generator.dir/src/Optimiser/Optimiser.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/figure1_data_generator.dir/src/Optimiser/iLQR.cpp.o -c /home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/Optimiser/iLQR.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/figure1_data_generator.dir/src/Optimiser/iLQR.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/Walker.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/Walker.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/Walker.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/Walker.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/BoxSweep.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/BoxSweep.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/BoxSweep.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/ImpactLargeBox.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/ImpactLargeBox.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/ImpactLargeBox.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/TwoDPushing.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/TwoDPushing.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/TwoDPushing.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -DNO_FREETYPE -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/PushBaseClass.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/PushBaseClass.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/figure1_data_generator.dir/src/ModelTranslator/PushBaseClass.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/test_derivs.dir/src/tests/Derivs_Test.cpp.o -c /home/davidrussell/TrajOptKP/src/tests/Derivs_Test.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/tests/Derivs_Test.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/test_derivs.dir/src/tests/Derivs_Test.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/test_derivs.dir/src/ModelTranslator/anyMal.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/anyMal.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/anyMal.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/test_derivs.dir/src/ModelTranslator/anyMal.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/test_model_translator.dir/src/tests/ModelTranslator_Test.cpp.o -c /home/davidrussell/TrajOptKP/src/tests/ModelTranslator_Test.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/tests/ModelTranslator_Test.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/test_model_translator.dir/src/tests/ModelTranslator_Test.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/test_model_translator.dir/src/ModelTranslator/anyMal.cpp.o -c /home/davidrussell/TrajOptKP/src/ModelTranslator/anyMal.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/ModelTranslator/anyMal.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/test_model_translator.dir/src/ModelTranslator/anyMal.cpp.o"
+},
+{
+  "directory": "/home/davidrussell/TrajOptKP/cmake-build-release",
+  "command": "/usr/bin/c++ -I/home/davidrussell/TrajOptKP/include -I/home/davidrussell/mujoco/include -I/home/davidrussell/mujoco/include/mujoco -isystem /usr/include/eigen3  -fopenmp -O3 -DNDEBUG -O3 -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/test_kinematic_chain.dir/src/tests/kinematic_chain_Test.cpp.o -c /home/davidrussell/TrajOptKP/src/tests/kinematic_chain_Test.cpp",
+  "file": "/home/davidrussell/TrajOptKP/src/tests/kinematic_chain_Test.cpp",
+  "output": "/home/davidrussell/TrajOptKP/cmake-build-release/CMakeFiles/test_kinematic_chain.dir/src/tests/kinematic_chain_Test.cpp.o"
+}
+]

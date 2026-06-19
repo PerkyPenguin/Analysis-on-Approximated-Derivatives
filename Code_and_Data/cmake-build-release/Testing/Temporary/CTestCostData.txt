@@ -1,0 +1,6 @@
+Derivs 1 17.1288
+ModelTranslator 1 0.118749
+ModelTranslatorState 1 0
+ModelTranslatorKin 2 0.0463312
+---
+ModelTranslatorState
